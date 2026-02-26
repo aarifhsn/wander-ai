@@ -48,7 +48,7 @@ export async function generateMetadata({ params }) {
 }
 
 export default async function PlanPage({ params }) {
-  const { slug } = params;
+  const { slug } = await params;
 
   try {
     const plan = await TravelPlan.findBySlug(slug);
