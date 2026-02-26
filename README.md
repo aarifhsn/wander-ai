@@ -8,7 +8,7 @@ An intelligent travel planning application that generates personalized itinerari
 
 ## Tech Stack
 
-- Framework: Next.js 14 with App Router
+- Framework: Next.js 16 with App Router
 - Language: JavaScript (ES6+)
 - AI: Google Gemini AI
 - Database: MongoDB Atlas
@@ -119,4 +119,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - GitHub: [@aarifhsn](https://github.com/aarifhsn)
 - Website: arifhassan.com
+
 # wander-ai
